@@ -1,0 +1,14 @@
+{
+    "random_forest": {
+        "accuracy": 0.9735023041474654,
+        "f1_weighted": 0.9733814640638975
+    },
+    "logistic_regression": {
+        "accuracy": 0.9953917050691244,
+        "f1_weighted": 0.9953872962674806
+    },
+    "knn": {
+        "accuracy": 0.988479262672811,
+        "f1_weighted": 0.9884389449695173
+    }
+}
